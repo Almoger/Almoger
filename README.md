@@ -4,7 +4,7 @@
   I have been managing and developing game servers for 10 years, especially in Team Fortress 2. I love spending my freetime playing videogames, and learning / testing different technologies.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nushnush&color=blueviolet" alt="caue-alves" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=almoger&color=blueviolet" alt="caue-alves" /> </p>
 
 ### 🚀 My Skills:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -23,7 +23,7 @@
 
 <div align="left">
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=nushnush&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nushnush&layout=compact&theme=dracula" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=almoger&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almoger&layout=compact&theme=dracula" alt="languages" height="165">
   </p>
 </div>
 
