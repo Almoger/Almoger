@@ -21,7 +21,7 @@
 
 <div align="left">
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=almoger&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almoger&layout=compact&theme=dracula" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=almoger" alt="My github stats" width="420"/>
   </p>
 </div>
 
